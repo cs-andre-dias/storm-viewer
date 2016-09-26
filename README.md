@@ -1,2 +1,2 @@
 # storm-viewer
-First project based on tutorials of hackingwithswift. It's a simple app for selecting an image and view it.
+Primeiro projeto baseado nos tutoriais do site hackingwithswift, esse projeto tem como foco para aprendizado: Constantes e variaveis, UITableView, UIImageView, FileManager, storyboards. É um simples app para listar imagens e seleciona-las para visualizar.
